@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+sqlalchemy
+psycopg2-binary
+statsmodels
+prophet
+scikit-learn
+python-dotenv
+streamlit-autorefresh
